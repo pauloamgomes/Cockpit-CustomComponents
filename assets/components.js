@@ -7,5 +7,5 @@ App.on("field.layout.components", function(field) {
         }
       });
     }
-  }, 50);
+  }, 100);
 });
