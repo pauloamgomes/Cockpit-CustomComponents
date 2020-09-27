@@ -1,3 +1,5 @@
+_**This addon is now deprecated due core changes in Cockpit as the same functionality can be achieved without the addon - [issue details](https://github.com/pauloamgomes/Cockpit-CustomComponents/issues/7)**_
+
 # Custom Components addon for Cockpit CMS
 
 Enhances the usage of the field layout by providing the possibility to restrict the available components per field.
